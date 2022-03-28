@@ -19,8 +19,4 @@ keyed_groups:
 hostnames:
   - "private-ip-address"
 compose:
-<<<<<<< HEAD
   ansible_user: "'ec2-user'"
-=======
-  ansible_user: "'ec2-user'"
->>>>>>> a98b4459fc5e7221adfbf4e70a4ff91b9704b313
